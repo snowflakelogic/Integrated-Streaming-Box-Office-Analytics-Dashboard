@@ -311,9 +311,6 @@ The processed dataset includes:
 - Use batch processing for large datasets
 - Add progress tracking for long-running operations
 
-## Internship Project
-Data Analytics Intern at [AIExecute](https://aiexecute.in/) | Mentored by [Dev Karprasad](https://www.linkedin.com/in/devkarprasad/)
-
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for discussion.
 
