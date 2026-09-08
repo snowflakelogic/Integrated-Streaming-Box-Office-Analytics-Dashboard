@@ -10,7 +10,7 @@ A comprehensive multi-platform analytics solution that combines theatrical box o
 ![Genre Comparison](Screenshot%202025-06-22%20200820.png)
 
 ### 🌍 Box Office Collection (Box-Office Mojo + OMDB API + Google Trends)
-![Geo Interest Map](Screenshot%2026-09-09%004351.png)
+![Geo Interest Map](Screenshot%202026-09-09%20004351.png)
 
 
 ## 📊 Project Overview
